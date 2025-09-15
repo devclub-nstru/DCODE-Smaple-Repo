@@ -55,6 +55,7 @@ Srijal Srivastava
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 -   Kritarth Patel (https://github.com/KritarthPatel)
 >>>>>>> KritarthPatel/main
 =======
@@ -156,3 +157,6 @@ Anurag Choubey
 =======
 - Prashant
 >>>>>>> prashantofficial627-hash/main
+=======
+-   Anant Jaiswal
+>>>>>>> anantjaiswal9140-code/main
