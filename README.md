@@ -66,6 +66,7 @@ Srijal Srivastava
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 -   Kritarth Patel (https://github.com/KritarthPatel)
 >>>>>>> KritarthPatel/main
 =======
@@ -202,3 +203,6 @@ lakshya
 =======
 -   Animesh Priyanshu
 >>>>>>> codeartsn/main
+=======
+-   Shikhar Srivastava
+>>>>>>> itzshikharofficial12/main
