@@ -69,6 +69,7 @@ Srijal Srivastava
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 -   Kritarth Patel (https://github.com/KritarthPatel)
 >>>>>>> KritarthPatel/main
 =======
@@ -214,3 +215,6 @@ lakshya
 =======
 -   Bala Vamsi Krishna
 >>>>>>> Vamsi-i7/main
+=======
+Sadhvik
+>>>>>>> Sadhvik999/main
