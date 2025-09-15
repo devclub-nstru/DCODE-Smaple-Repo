@@ -64,6 +64,7 @@ Srijal Srivastava
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 -   Kritarth Patel (https://github.com/KritarthPatel)
 >>>>>>> KritarthPatel/main
 =======
@@ -192,3 +193,8 @@ Aniket Kumar
 =======
 lakshya
 >>>>>>> lakshyapvt2010-ux/main
+=======
+
+
+-shlok 
+>>>>>>> shlokgarg4664/main
