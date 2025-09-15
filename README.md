@@ -59,6 +59,7 @@ Srijal Srivastava
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 -   Kritarth Patel (https://github.com/KritarthPatel)
 >>>>>>> KritarthPatel/main
 =======
@@ -172,3 +173,6 @@ Anurag Choubey
 =======
 Nikhil Singh
 >>>>>>> nikhilsingh978517-stack/main
+=======
+-   Madhav Khandelwal
+>>>>>>> Madhav-007/main
