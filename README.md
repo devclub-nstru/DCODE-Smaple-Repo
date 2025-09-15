@@ -76,6 +76,7 @@ Srijal Srivastava
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 -   Kritarth Patel (https://github.com/KritarthPatel)
 >>>>>>> KritarthPatel/main
 =======
@@ -240,3 +241,6 @@ Sadhvik
 =======
 -   Dhaval Sethi
 >>>>>>> dhavalsethii/main
+=======
+-   Satyam Swarnakar (https://github.com/satyam-coder07)
+>>>>>>> satyam-coder07/main
