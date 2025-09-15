@@ -13,3 +13,4 @@ DCODE will be a community of Developers and students who will be fueling major O
 ## 🚀 Our Contributors
 
 -   Ved Pawar ([@janedoe](https://github.com/vedpawar2254))
+-   Ekansh Shrotriya (https://github.com/ekanshs25160-bit)
