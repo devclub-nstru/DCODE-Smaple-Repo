@@ -20,6 +20,7 @@ DCODE will be a community of Developers and students who will be fueling major O
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 -   Ved Pawar ([@vedpawar](https://github.com/vedpawar2254))
 =======
 =======
@@ -252,3 +253,6 @@ Sadhvik
 =======
 -   Shresth Juyal
 >>>>>>> Shresth-14/main
+=======
+charan durga
+>>>>>>> CreativeCD/main
