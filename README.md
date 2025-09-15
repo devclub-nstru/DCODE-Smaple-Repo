@@ -80,6 +80,7 @@ Srijal Srivastava
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 -   Kritarth Patel (https://github.com/KritarthPatel)
 >>>>>>> KritarthPatel/main
 =======
@@ -256,3 +257,6 @@ Sadhvik
 =======
 charan durga
 >>>>>>> CreativeCD/main
+=======
+-   Ekansh Shrotriya (https://github.com/ekanshs25160-bit)
+>>>>>>> ekanshs25160-bit/main
