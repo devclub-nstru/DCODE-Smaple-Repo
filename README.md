@@ -74,6 +74,7 @@ Srijal Srivastava
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 -   Kritarth Patel (https://github.com/KritarthPatel)
 >>>>>>> KritarthPatel/main
 =======
@@ -232,3 +233,6 @@ Sadhvik
 - Ved Pawar ([@ved](https://github.com/vedpawar2254))
 - Kevish
 >>>>>>> AdityaInnovates/main
+=======
+-   Ishan Chetwani
+>>>>>>> Ishan3131/main
