@@ -60,6 +60,7 @@ Srijal Srivastava
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 -   Kritarth Patel (https://github.com/KritarthPatel)
 >>>>>>> KritarthPatel/main
 =======
@@ -176,3 +177,6 @@ Nikhil Singh
 =======
 -   Madhav Khandelwal
 >>>>>>> Madhav-007/main
+=======
+-   Siddhi Modi 
+>>>>>>> modisiddhi2010/main
