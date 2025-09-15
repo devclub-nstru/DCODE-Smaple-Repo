@@ -53,6 +53,7 @@ Srijal Srivastava
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 -   Kritarth Patel (https://github.com/KritarthPatel)
 >>>>>>> KritarthPatel/main
 =======
@@ -148,3 +149,6 @@ Anurag Choubey
 =======
 -   Mohit 
 >>>>>>> mohittyl/main
+=======
+-   Piyush Purkait([@Piyushdev-X](https://github.com/Piyushdev-X))
+>>>>>>> Piyushdev-X/main
