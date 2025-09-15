@@ -52,6 +52,7 @@ Srijal Srivastava
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 -   Kritarth Patel (https://github.com/KritarthPatel)
 >>>>>>> KritarthPatel/main
 =======
@@ -144,3 +145,6 @@ Anurag Choubey
 =======
 -   Sanyam Garg v
 >>>>>>> sanyamgarg023-dev/main
+=======
+-   Mohit 
+>>>>>>> mohittyl/main
