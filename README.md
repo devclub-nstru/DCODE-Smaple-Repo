@@ -78,6 +78,7 @@ Srijal Srivastava
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 -   Kritarth Patel (https://github.com/KritarthPatel)
 >>>>>>> KritarthPatel/main
 =======
@@ -248,3 +249,6 @@ Sadhvik
 =======
 - Vanshika (https://github.com/vanshika022007)
 >>>>>>> vanshika022007/main
+=======
+-   Shresth Juyal
+>>>>>>> Shresth-14/main
