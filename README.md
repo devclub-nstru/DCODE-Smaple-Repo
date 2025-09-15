@@ -71,6 +71,7 @@ Srijal Srivastava
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 -   Kritarth Patel (https://github.com/KritarthPatel)
 >>>>>>> KritarthPatel/main
 =======
@@ -222,3 +223,6 @@ Sadhvik
 =======
 - Mridul Gupta (https://github.com/mricement65)
 >>>>>>> mricement65/main
+=======
+-   Md. Hamza Khan((https://github.com/Hamza200729))
+>>>>>>> Hamza200729/main
