@@ -81,6 +81,7 @@ Srijal Srivastava
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 -   Kritarth Patel (https://github.com/KritarthPatel)
 >>>>>>> KritarthPatel/main
 =======
@@ -260,3 +261,6 @@ charan durga
 =======
 -   Ekansh Shrotriya (https://github.com/ekanshs25160-bit)
 >>>>>>> ekanshs25160-bit/main
+=======
+-   Priyanshu Sharma
+>>>>>>> priyanshusharma99/main
