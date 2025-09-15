@@ -57,6 +57,7 @@ Srijal Srivastava
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 -   Kritarth Patel (https://github.com/KritarthPatel)
 >>>>>>> KritarthPatel/main
 =======
@@ -164,3 +165,6 @@ Anurag Choubey
 =======
 -   Fenil Sata ([FSS3096](https://github.com/FSS3096))
 >>>>>>> FSS3096/main
+=======
+-   Anjana Kamle
+>>>>>>> AnjanaKamle/main
