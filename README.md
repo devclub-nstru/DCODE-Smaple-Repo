@@ -62,6 +62,7 @@ Srijal Srivastava
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 -   Kritarth Patel (https://github.com/KritarthPatel)
 >>>>>>> KritarthPatel/main
 =======
@@ -184,3 +185,6 @@ Nikhil Singh
 =======
 -   Keshav
 >>>>>>> Keshav4744550/main
+=======
+Aniket Kumar
+>>>>>>> NopePlague/main
