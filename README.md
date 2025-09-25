@@ -12,6 +12,7 @@ DCODE will be a community of Developers and students who will be fueling major O
 
 ## 🚀 Our Contributors
 
+-  Prachi Aggarwal ([@buildwithprachi](https://github.com/buildwithprachi))
 
 -   Ved Pawar ([@janedoe](https://github.com/vedpawar2254))
 
