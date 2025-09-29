@@ -115,6 +115,7 @@ Anurag Choubey
 
 -   Ramit Layek
 
+Kartik Tripathi
 
 -   Arpan Kaur ([@Arpan-Kaur2006](https://github.com/Arpan-Kaur2006))
 
