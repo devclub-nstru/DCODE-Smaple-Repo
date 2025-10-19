@@ -127,5 +127,7 @@ Pranjal2007v/main
 - Yash Sengar
 
 
+- Shaurya Negi ([@Maxx2016s](https://github.com/Maxx2016s))
+
 
 
