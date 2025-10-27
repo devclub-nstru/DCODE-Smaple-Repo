@@ -21,6 +21,7 @@ DCODE will be a community of Developers and students who will be fueling major O
 
 Aditya Srivastava
 
+- Ishan Maheshwari
 
 - Prashant
 
