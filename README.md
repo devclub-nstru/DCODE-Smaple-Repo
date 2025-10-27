@@ -18,7 +18,6 @@ DCODE will be a community of Developers and students who will be fueling major O
 -   Yashasvee Singh ([@janedoe](https://github.com/vedpawar2254))
 
 - Shashank Badhautia (@ShashankBadhautia)(https://github.com/ShashankBadhautia)
-
 Aditya Srivastava
 
 
@@ -33,6 +32,7 @@ Aditya Srivastava
 
 Yogye Berry
 
+ManiKanta ([@Smanikanta21](https://github.com/Smanikanta21))
 
 Srijal Srivastava
 main
@@ -40,11 +40,11 @@ main
 -   Kritarth Patel (https://github.com/KritarthPatel)
  KritarthPatel/main
 
--   Ved Pawar ([@janedoe](https://github.com/vedpawar2254)
--   Shweta Sharma ([@Shweta-Sharma-Sh](https://github.com/Shweta-Sharma-sh)
+-   Ved Pawar ([@janedoe](https://github.com/vedpawar2254))
+-   Shweta Sharma ([@Shweta-Sharma-Sh](https://github.com/Shweta-Sharma-sh))
 
 
-- Pranjal Garg ([@pranjalgarg]((https://github.com/pjlgrg)
+- Pranjal Garg ([@pranjalgarg]((https://github.com/pjlgrg)))
 
 
 -   Tishika Arora
