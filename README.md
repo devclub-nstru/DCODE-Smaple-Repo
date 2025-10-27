@@ -39,7 +39,7 @@ main
 -   Sanyam Garg v
 -   Kritarth Patel (https://github.com/KritarthPatel)
  KritarthPatel/main
-
+- Rudraksh Rathod (https://github.com/Rudra-codee)
 -   Ved Pawar ([@janedoe](https://github.com/vedpawar2254)
 -   Shweta Sharma ([@Shweta-Sharma-Sh](https://github.com/Shweta-Sharma-sh)
 
