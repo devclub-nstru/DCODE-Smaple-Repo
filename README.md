@@ -19,6 +19,8 @@ DCODE will be a community of Developers and students who will be fueling major O
 
 - Shashank Badhautia (@ShashankBadhautia)(https://github.com/ShashankBadhautia)
 
+- Neeraj Singh (@Neeraj-singh140805)(https://github.com/Neeraj-singh140805)
+
 Aditya Srivastava
 
 
