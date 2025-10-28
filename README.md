@@ -11,7 +11,7 @@ DCODE will be a community of Developers and students who will be fueling major O
 
 
 ## 🚀 Our Contributors
-
+-Deepanshu (https://github.com/deepanshu92110-collab)
 
 -   Ved Pawar ([@janedoe](https://github.com/vedpawar2254))
 
