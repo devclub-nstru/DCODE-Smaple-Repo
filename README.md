@@ -12,7 +12,7 @@ DCODE will be a community of Developers and students who will be fueling major O
 
 ## 🚀 Our Contributors
 
-
+- Aradhya Tiwari [@AradhyaTiwari10] (https://github.com/AradhyaTiwari10)
 -   Ved Pawar ([@janedoe](https://github.com/vedpawar2254))
 
 -   Yashasvee Singh ([@janedoe](https://github.com/vedpawar2254))
