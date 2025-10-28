@@ -126,6 +126,7 @@ Pranjal2007v/main
 
 - Yash Sengar
 
+- Vinayak Agrawal ([@adventureseeker981](https://github.com/adventureseeker981))
 
 
 
