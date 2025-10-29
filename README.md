@@ -126,6 +126,8 @@ Pranjal2007v/main
 
 - Yash Sengar
 
+- Hrishi Dongre [@hrishidongre](https://github.com/hrishidongre)
+
 
 
 
