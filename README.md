@@ -24,6 +24,8 @@ Aditya Srivastava
 
 - Prashant
 
+- Harshit
+
 
 -   Piyush Purkait([@Piyushdev-X](https://github.com/Piyushdev-X))
 
